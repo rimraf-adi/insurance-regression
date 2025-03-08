@@ -1,0 +1,38 @@
+[2025-03-09 03:22:39,081] INFO: Initiating project setup...
+[2025-03-09 03:22:39,081] INFO: Creating directory: config
+[2025-03-09 03:22:39,082] INFO: Creating empty file: config/config.yaml
+[2025-03-09 03:22:39,082] INFO: Creating directory: config
+[2025-03-09 03:22:39,082] INFO: Creating empty file: config/schema.yaml
+[2025-03-09 03:22:39,082] INFO: Creating directory: config
+[2025-03-09 03:22:39,082] INFO: Creating empty file: config/params.yaml
+[2025-03-09 03:22:39,082] INFO: Creating directory: data
+[2025-03-09 03:22:39,082] INFO: Creating empty file: data/demo.csv
+[2025-03-09 03:22:39,082] INFO: Creating directory: src/types
+[2025-03-09 03:22:39,082] INFO: Creating empty file: src/types/__init__.py
+[2025-03-09 03:22:39,083] INFO: Creating directory: src/notebooks
+[2025-03-09 03:22:39,083] INFO: Creating empty file: src/notebooks/__init__.py
+[2025-03-09 03:22:39,083] INFO: Creating directory: src/notebooks
+[2025-03-09 03:22:39,083] INFO: Creating empty file: src/notebooks/experiment.ipynb
+[2025-03-09 03:22:39,083] INFO: Creating directory: src/constants
+[2025-03-09 03:22:39,083] INFO: Creating empty file: src/constants/__init__.py
+[2025-03-09 03:22:39,083] INFO: Creating directory: src/utils
+[2025-03-09 03:22:39,083] INFO: Creating empty file: src/utils/__init__.py
+[2025-03-09 03:22:39,083] INFO: Creating directory: src/pipelines
+[2025-03-09 03:22:39,083] INFO: Creating empty file: src/pipelines/__init__.py
+[2025-03-09 03:22:39,084] INFO: Creating directory: src/components
+[2025-03-09 03:22:39,084] INFO: Creating empty file: src/components/__init__.py
+[2025-03-09 03:22:39,084] INFO: Creating directory: static
+[2025-03-09 03:22:39,084] INFO: Creating empty file: static/index.html
+[2025-03-09 03:22:39,084] INFO: Creating directory: tests
+[2025-03-09 03:22:39,084] INFO: Creating empty file: tests/unit
+[2025-03-09 03:22:39,084] INFO: Creating directory: tests
+[2025-03-09 03:22:39,084] INFO: Creating empty file: tests/integration
+[2025-03-09 03:22:39,084] INFO: Creating empty file: requirements.txt
+[2025-03-09 03:22:39,084] INFO: Creating empty file: setup.py
+[2025-03-09 03:22:39,085] INFO: Creating directory: docs
+[2025-03-09 03:22:39,085] INFO: Creating empty file: docs/file.tex
+[2025-03-09 03:22:39,085] INFO: Creating empty file: README.md
+[2025-03-09 03:22:39,085] INFO: Creating empty file: .gitignore
+[2025-03-09 03:22:39,085] INFO: setup.py file created.
+[2025-03-09 03:22:39,085] INFO: requirements.txt file created.
+[2025-03-09 03:22:39,085] INFO: ✅ Project setup complete!
